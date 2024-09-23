@@ -1,2 +1,8 @@
 # Estatistica_EstudosGerais
-Estudo gerais de Estatística e Ciência de Dados.
+Estudos gerais de Estatística e Ciência de Dados.
+. Tópicos
+1) Aplicações dos Testes não Paramétricos
+   - Kolmogorov-Smirnov
+   - Qui-Quadrado de Aderência
+
+
