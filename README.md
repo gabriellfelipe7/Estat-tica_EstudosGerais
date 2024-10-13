@@ -8,5 +8,5 @@ Estudos gerais de Estatística e Ciência de Dados.
    - Qui-Quadrado de Aderência (uma amostra)
    - Mecnemer (duas amostras pareadas)
    - Sinais (duas amostras pareadas)
-
+   - Wilcoxon (duas amostras pareadas)
 
